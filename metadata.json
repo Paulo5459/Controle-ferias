@@ -1,0 +1,6 @@
+{
+  "name": "Gestão de Férias Institucional – MVP",
+  "description": "Sistema institucional para planejamento, agendamento e controle de férias e efetivo dos servidores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
